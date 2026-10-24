@@ -12,4 +12,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 [Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
 
 ## Students
-
+[Salvatore Flores](https://github.com/Sflores155) - first year student, loves video games, technology, exercise, and spending time with friends/family.
